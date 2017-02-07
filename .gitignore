@@ -13,3 +13,9 @@ hs_err_pid*
 
 # Gradle cache directory
 .gradle
+
+# Ignore IntelliJ stuff
+.idea
+
+# Ignore the Gradle build directory
+build
