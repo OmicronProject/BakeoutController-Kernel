@@ -65,7 +65,7 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile group: 'junit', name: 'junit', version: '4.12'
 
-    // Add Jmock 2 to stub out interfaces for fast unit testing
+    // Add Jmock 2 to stub out interfaces for fast ca.uwaterloo.iqc.bakeoutcontroller_kernel.unit testing
     testCompile group: 'org.jmock', name: 'jmock-junit4', version: '2+'
 }
 
