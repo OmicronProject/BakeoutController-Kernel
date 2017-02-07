@@ -8,5 +8,20 @@
 *.war
 *.ear
 
+# Gradle Wrapper Jar is the only jar allowed
+!gradle/wrapper/gradle-wrapper.jar
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Gradle cache directory
+.gradle
+
+# Ignore IntelliJ stuff
+.idea
+
+# Ignore the Gradle build directory
+build
+
+# Documentation build
+doc/build
