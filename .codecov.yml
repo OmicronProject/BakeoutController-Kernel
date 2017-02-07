@@ -21,5 +21,4 @@ comment:
     paths: null
 
 fixes:
-    - "kernel::src/main/java"
     - "Library::src/main/java"
