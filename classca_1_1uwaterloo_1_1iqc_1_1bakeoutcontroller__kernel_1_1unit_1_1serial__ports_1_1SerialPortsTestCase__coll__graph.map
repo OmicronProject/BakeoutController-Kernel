@@ -1,0 +1,5 @@
+<map id="ca.uwaterloo.iqc.bakeoutcontroller_kernel.unit.serial_ports.SerialPortsTestCase" name="ca.uwaterloo.iqc.bakeoutcontroller_kernel.unit.serial_ports.SerialPortsTestCase">
+<area shape="rect" id="node2" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1KernelTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.KernelTestCase" alt="" coords="443,5,663,47"/>
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1UnitTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.UnitTestCase" alt="" coords="173,5,393,47"/>
+<area shape="rect" id="node5" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1serial__ports_1_1comm__port__wrapper_1_1PortIdentifierGetter.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.serial_ports.comm_port\l_wrapper.PortIdentifierGetter" alt="" coords="443,70,663,126"/>
+</map>

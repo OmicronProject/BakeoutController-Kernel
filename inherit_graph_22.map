@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1views_1_1DeviceListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.views.DeviceListEntry" alt="" coords="5,13,225,54"/>
+<area shape="rect" id="node2" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1StandaloneDeviceListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.StandaloneDeviceListEntry" alt="" coords="273,13,548,54"/>
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1TDKLambdaPowerSupplyListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.TDKLambdaPowerSupply\lListEntry" alt="" coords="596,5,863,61"/>
+</map>

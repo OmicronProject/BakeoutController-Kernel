@@ -1,0 +1,4 @@
+<map id="ca.uwaterloo.iqc.bakeoutcontroller_kernel.views.DeviceListEntry" name="ca.uwaterloo.iqc.bakeoutcontroller_kernel.views.DeviceListEntry">
+<area shape="rect" id="node2" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1StandaloneDeviceListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.StandaloneDeviceListEntry" alt="" coords="5,95,280,136"/>
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1TDKLambdaPowerSupplyListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.TDKLambdaPowerSupply\lListEntry" alt="" coords="9,184,276,240"/>
+</map>

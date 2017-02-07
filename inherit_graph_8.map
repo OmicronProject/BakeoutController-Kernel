@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1RS232Device.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.RS232Device" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1PowerSupply.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.PowerSupply" alt="" coords="273,5,493,47"/>
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1TDKLambdaPowerSupply.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.TDKLambdaPowerSupply" alt="" coords="541,5,808,47"/>
+</map>

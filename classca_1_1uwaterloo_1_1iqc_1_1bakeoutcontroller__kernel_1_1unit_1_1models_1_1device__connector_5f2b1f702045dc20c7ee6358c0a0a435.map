@@ -1,0 +1,9 @@
+<map id="ca.uwaterloo.iqc.bakeoutcontroller_kernel.unit.models.device_connector.GetDeviceRegistry" name="ca.uwaterloo.iqc.bakeoutcontroller_kernel.unit.models.device_connector.GetDeviceRegistry">
+<area shape="rect" id="node2" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1models_1_1device__connector_1_1DeviceConnectorTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.models.device_connector.\lDeviceConnectorTestCase" alt="" coords="1115,63,1360,119"/>
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1models_1_1ModelsTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.models.ModelsTestCase" alt="" coords="725,5,964,47"/>
+<area shape="rect" id="node4" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1KernelTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.KernelTestCase" alt="" coords="449,5,669,47"/>
+<area shape="rect" id="node5" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1UnitTestCase.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.UnitTestCase" alt="" coords="173,5,393,47"/>
+<area shape="rect" id="node7" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1models_1_1DeviceConnector.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.models.DeviceConnector" alt="" coords="735,71,955,112"/>
+<area shape="rect" id="node8" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1controllers_1_1DeviceConnector.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.controllers.DeviceConnector" alt="" coords="443,71,676,112"/>
+<area shape="rect" id="node9" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1views_1_1DeviceListEntry.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.views.DeviceListEntry" alt="" coords="735,136,955,177"/>
+</map>

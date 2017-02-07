@@ -1,0 +1,4 @@
+<map id="ca.uwaterloo.iqc.bakeoutcontroller_kernel.serial_ports.PortCommunicator" name="ca.uwaterloo.iqc.bakeoutcontroller_kernel.serial_ports.PortCommunicator">
+<area shape="rect" id="node3" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1devices_1_1DeviceCommunicator.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.devices.DeviceCommunicator" alt="" coords="301,71,569,112"/>
+<area shape="rect" id="node4" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1unit_1_1devices_1_1DevicesTestCase_1_1CommunicationMonitor.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.unit.devices.DevicesTestCase.\lCommunicationMonitor" alt="" coords="617,63,868,119"/>
+</map>

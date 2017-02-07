@@ -1,0 +1,4 @@
+<map id="ca.uwaterloo.iqc.bakeoutcontroller_kernel.devices.PowerSupply" name="ca.uwaterloo.iqc.bakeoutcontroller_kernel.devices.PowerSupply">
+<area shape="rect" id="node3" href="$classca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1TDKLambdaPowerSupply.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.TDKLambdaPowerSupply" alt="" coords="5,184,272,225"/>
+<area shape="rect" id="node2" href="$interfaceca_1_1uwaterloo_1_1iqc_1_1bakeoutcontroller__kernel_1_1devices_1_1RS232Device.html" title="ca.uwaterloo.iqc.bakeoutcontroller\l_kernel.devices.RS232Device" alt="" coords="29,5,249,47"/>
+</map>
