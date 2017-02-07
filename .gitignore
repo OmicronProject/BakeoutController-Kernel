@@ -19,3 +19,6 @@ hs_err_pid*
 
 # Ignore the Gradle build directory
 build
+
+# Documentation build
+./doc/build
