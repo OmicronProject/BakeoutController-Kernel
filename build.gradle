@@ -29,14 +29,9 @@ buildscript {
 }
 
 plugins {
-    id "edu.sc.seis.launch4j" version "1.6.2"
     id "java"
     id "jacoco"
-    id "application"
 }
-// The JavaFX plugin requires use of the old-style plugin syntax
-apply plugin: 'javafx-gradle-plugin'
-
 // In this section you declare where to find the dependencies of your project
 repositories {
     // Use 'jcenter' for resolving your dependencies.
@@ -70,24 +65,8 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile group: 'junit', name: 'junit', version: '4.12'
 
-    // TestFX is the unit test suite for the JavaFX GUI library
-    testCompile group: 'org.testfx', name: 'testfx-junit', version:'4.+'
-
-    // Add a testing Mr.Robot that will allow the UI to be tested headlessly
-    testRuntime 'org.testfx:openjfx-monocle:1.8.0_20'
-
     // Add Jmock 2 to stub out interfaces for fast unit testing
     testCompile group: 'org.jmock', name: 'jmock-junit4', version: '2+'
-}
-
-/**
- * Declare the name of the main class of the project. This is the class
- * That is executed on launch of the program
- */
-mainClassName = 'main.Main'
-
-launch4j {
-    mainClassName = mainClassName
 }
 
 jacocoTestReport {
@@ -105,16 +84,4 @@ jacocoTestReport {
 }
 
 check.dependsOn jacocoTestReport
-
-jfx {
-    mainClass = 'main.Main'
-    vendor = 'Michal Kononenko'
-}
-
-test {
-    systemProperty 'Dtestfx.robot', 'glass'
-    systemProperty 'Dglass.platform', 'Monocle'
-    systemProperty 'Dmonocle.platform', 'Headless'
-    systemProperty 'Dprism.order', 'sw'
-}
 
