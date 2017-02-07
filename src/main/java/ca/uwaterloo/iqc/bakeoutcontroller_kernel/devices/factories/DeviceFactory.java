@@ -7,8 +7,8 @@ import ca.uwaterloo.iqc.bakeoutcontroller_kernel.serial_ports.SerialPort;
 /**
  * Created by mkononen on 06/02/17.
  */
-public interface DeviceFactory<DeviceType extends RS232Device> {
-    DeviceType getDevice() throws DeviceNotCreatedException;
+public interface DeviceFactory<T extends RS232Device> {
+    T getDevice() throws DeviceNotCreatedException;
 
     SerialPort getSerialPort();
 
