@@ -8,4 +8,7 @@ import ca.uwaterloo.iqc.bakeoutcontroller_kernel.variables.Constrained;
  * to a value that was not allowed.
  */
 public class UnableToSetVariableException extends Exception {
+    public UnableToSetVariableException(String message){
+        super(message);
+    }
 }

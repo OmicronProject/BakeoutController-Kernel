@@ -64,7 +64,12 @@ public abstract class AbstractBoundedVariable<T extends Comparable<T>>
         if (isAllowedValue(value)){
             this.value = value;
         } else {
-            throw new UnableToSetVariableException();
+            throw new UnableToSetVariableException(
+                    String.format(
+                            "The value %s could not be set",
+                            value.toString()
+                    )
+            );
         }
     }
 
