@@ -17,4 +17,10 @@ public interface Bounded<T extends Comparable<T>> extends
      * @return The upper bound for this variable
      */
     T getUpperBound();
+
+    /**
+     * @return The type being managed by this variable. Since this value is bounded, the type constraint on the
+     * returned type can be more strict.
+     */
+    Class<? extends Comparable> getType();
 }

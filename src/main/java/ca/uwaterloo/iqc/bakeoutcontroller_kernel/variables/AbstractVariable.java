@@ -24,4 +24,13 @@ public abstract class AbstractVariable<T> implements Variable<T> {
     public T getValue(){
         return value;
     }
+
+    /**
+     *
+     * @return The type managed by this variable
+     */
+    @Override
+    public Class<?> getType(){
+        return value.getClass();
+    }
 }

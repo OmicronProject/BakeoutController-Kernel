@@ -9,4 +9,10 @@ public interface Variable<T> {
      * @return The current value of the variable
      */
     T getValue();
+
+    /**
+     *
+     * @return The type being managed by this variable
+     */
+    Class<?> getType();
 }

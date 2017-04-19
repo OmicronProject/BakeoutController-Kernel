@@ -9,9 +9,7 @@ import ca.uwaterloo.iqc.bakeoutcontroller_kernel.variables.Variable;
  * {@link ca.uwaterloo.iqc.bakeoutcontroller_kernel.variables.AbstractVariable}
  */
 public abstract class AbstractVariableTestCase extends VariablesTestCase {
-    protected Variable<Double> concreteVariable;
-
-    protected class ConcreteVariable extends AbstractVariable<Double> {
+    protected static class ConcreteVariable extends AbstractVariable<Double> {
         public ConcreteVariable(Double value){
             super(value);
         }

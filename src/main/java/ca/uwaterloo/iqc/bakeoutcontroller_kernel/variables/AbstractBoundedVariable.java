@@ -86,6 +86,11 @@ public abstract class AbstractBoundedVariable<T extends Comparable<T>>
         );
     }
 
+    @Override
+    public Class<? extends Comparable> getType(){
+        return this.value.getClass();
+    }
+
     /**
      * This is run during construction, in order to check that the bounds
      * for the variable are well-specified. If they are not, an
